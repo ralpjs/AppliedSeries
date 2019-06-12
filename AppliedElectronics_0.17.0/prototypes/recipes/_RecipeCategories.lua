@@ -1,0 +1,12 @@
+data:extend({
+{
+	type="recipe-category",
+	name="AppliedComponentProduction1",
+},{
+	type="recipe-category",
+	name="AppliedPCBEtching1",
+},{
+	type="recipe-category",
+	name="AppliedChipShooting1",
+},
+})

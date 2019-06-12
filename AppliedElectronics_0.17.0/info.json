@@ -1,0 +1,10 @@
+{
+	"name": "AppliedElectronics",
+	"version": "0.17.0",
+	"factorio_version": "0.17.0",
+	"title": "Applied Electronics",
+	"author": "Ralp",
+	"homepage": "",
+	"description": "Adds new and 'improved' electronic circuits to the game. Part 4 of the Applied Series.",
+	"dependencies": ["base >= 0.17.0", "AppliedGraphics >= 0.17.0", "AppliedFoundry >= 0.17.0", "AppliedOrganicChemistry >= 0.17.0"]
+}

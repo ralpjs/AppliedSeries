@@ -1,0 +1,30 @@
+data:extend({
+{
+	type="item",
+	name="AppliedBasicElectronicComponentFactory",
+	icon="__AppliedGraphics__/graphics/electronics/icons/BasicElectronicComponentFactory.png",
+	icon_size=32,
+	subgroup="AppliedBasicElectronicsMachines",
+	order="",
+	place_result="AppliedBasicElectronicComponentFactory",
+	stack_size=50,
+},{
+	type="item",
+	name="AppliedBasicPCBEtcher",
+	icon="__AppliedGraphics__/graphics/electronics/icons/BasicPCBStamper.png",
+	icon_size=32,
+	subgroup="AppliedBasicElectronicsMachines",
+	order="",
+	place_result="AppliedBasicPCBStamper",
+	stack_size=50,
+},{
+	type="item",
+	name="AppliedBasicChipShooter",
+	icon="__AppliedGraphics__/graphics/electronics/icons/BasicChipShooter.png",
+	icon_size=32,
+	subgroup="AppliedBasicElectronicsMachines",
+	order="",
+	place_result="AppliedBasicChipShooter",
+	stack_size=50,
+},
+})
